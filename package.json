@@ -1,0 +1,18 @@
+{
+  "name": "mmm-homeassistant",
+  "version": "1.0.0",
+  "description": "A simple Home Assistant iframe module for MagicMirror²",
+  "main": "MMM-HomeAssistant.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "magic mirror",
+    "smart mirror",
+    "home assistant",
+    "iframe"
+  ],
+  "author": "Michał Grecer",
+  "license": "MIT",
+  "homepage": "https://github.com/MichalGrecer/MMM-HomeAssistant#readme"
+}
