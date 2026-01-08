@@ -42,7 +42,7 @@ To use this module, add the following configuration block to the modules array i
 ## Configuration Options
 
 | Option | Description | Default |
-| :--- | :--- |
+| :--- | :--- | :--- |
 | `url` | The full URL of your Home Assistant instance. | http://localhost:8123 |
 | `width` | The width of the iframe (supports px or %). | 1120px |
 | `height` | The height of the iframe (supports px or %). | 720px |
